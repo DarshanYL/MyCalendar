@@ -1,1 +1,1 @@
-Personal Calendar using GraphQL Java
+Personal Calendar using GraphQL Java (Under development)
