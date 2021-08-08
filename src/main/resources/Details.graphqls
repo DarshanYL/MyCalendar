@@ -1,0 +1,10 @@
+type query{
+    detailsById(id: ID): Details
+}
+
+type Details{
+    ID: String
+    name: String
+    age: Int
+    dob: String
+}
